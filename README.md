@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Rana</h1>
-<h3 align="center">🎓 Sophomore | B.Tech in Computer Science | UPES Dehradun Welcome to my GitHub profile! I'm a second-year student at the University of Petroleum and Energy Studies (UPES) in Dehradun, India. My interests lie in e.g., software development, data science, machine learning.</h3>
+<h3 align="center">🎓  | B.Tech in Computer Science | UPES Dehradun Welcome to my GitHub profile! I'm a  student at the University of Petroleum and Energy Studies (UPES) in Dehradun, India. My interests lie in e.g., software development, </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
