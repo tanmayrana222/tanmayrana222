@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Rana</h1>
 <h3 align="center">🎓  | B.Tech in Computer Science | UPES Dehradun Welcome to my GitHub profile! I'm a  student at the University of Petroleum and Energy Studies (UPES) in Dehradun, India. My interests lie in e.g., software development, </h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="href="https://linkedin.com/in/tanmay rana"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay rana" height="30" width="40" /></a>
-<a href="https://instagram.com/tanmay_.rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay_.rana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
